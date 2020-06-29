@@ -63,13 +63,13 @@
             <div class="col-md-10 col-md-offset-1" id="copyright">
                 版权所有：
                 <address>
-                    <strong>@41531P25 ZhouMin</strong><br/>
-                    E-mail:<a href="#">37428498@qq.com</a>
+                    <strong>@XXXXX XXXXX</strong><br/>
+                    E-mail:<a href="#">xxxxx@xxx.com</a>
                 </address>
                 <address>
-                    <strong>@NanJing College of Information Technology, 99, WenLan Road,  NanJing, JangSu|
-                        <a href="http://www.njcit.cn" target="_blank">@NJCIT.CN</a></strong><br/>
-                    TEL:2558-004885
+                    <strong>@XXXXXXXXXX
+                        <a href="https://github.com/wufeiwua/TicketingSystem" target="_blank">@GITHUB</a></strong><br/>
+                    TEL:xxxx-xxxxxx
                 </address>
             </div>
         </div>
