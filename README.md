@@ -15,3 +15,8 @@ $ git clone https://github.com/wufeiwua/TicketingSystem.git
 
 ## Change List
 - 2020-6-28 重构：采用 maven 构建项目
+
+## Todo List
+- Vue 重构前端界面
+- 更新 12306 API
+- 加入反爬机制
